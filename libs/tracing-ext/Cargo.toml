@@ -1,0 +1,6 @@
+[package]
+name = "objectbox-tracing-ext"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

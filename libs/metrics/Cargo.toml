@@ -1,0 +1,6 @@
+[package]
+name = "objectbox-metrics"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
